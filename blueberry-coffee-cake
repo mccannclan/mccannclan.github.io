@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blueberry Coffee Cake</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .container { max-width: 800px; margin: auto; }
+        h1 { color: #333; }
+        .intro, .ingredients, .instructions { margin-bottom: 20px; }
+        ul { list-style-type: none; }
+        li { margin-bottom: 5px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Blueberry Coffee Cake</h1>
+        <p class="intro">A special treat for Christmas morning, graduation brunch or baptism brunch.</p>
+        
+        <h2>Ingredients</h2>
+        <ul class="ingredients">
+            <!-- List ingredients here -->
+            <li>1/2 c butter</li>
+            <li>1 c sugar</li>
+            <li>3 eggs, lightly beaten</li>
+            <li>1 t baking powder</li>
+            <li>1/4 t salt</li>
+            <li>1 t soda</li>
+            <li>2 c flour, unsifted</li>
+            <li>1 c sour cream</li>
+            <li>2 c fresh or frozen blueberries **</li>
+            <li>Topping 1 c brown sugar</li>
+            <li>1/4c butter</li>
+            <li>1/4 c flour</li>
+            <!-- etc. -->
+        </ul>
+
+        <h2>Instructions</h2>
+        <ol class="instructions">
+            <!-- List instructions here -->
+            <li>Preheat oven to 350 degrees. Cream butter and sugar. Add eggs, baking powder, salt, and soda. Alternating, add flour and sour cream. Fold in blueberries. Pour into a well battered cake pan approximately 9 x 13</li>
+            <li>For the topping: Cream brown sugar and butter. Add flour to get a semi-dry, lump mixture. Spread on top of the batter, bake for 30 minutes or until a toothpick inserted in the center comes out clean. The topping should melt and partially sink into the batter.</li>
+            <li>** <i>Denotes the cake needs longer to cook if you use frozen blueberries. Fresh or frozen are equally delicious.</i></li>
+            <!-- etc. -->
+        </ol>
+        
+        <p><strong>Cook Time:</strong> 30 mins</p>
+        <p><strong>San Francisco a la Carte</strong> 07/24/14</p>
+        
+        <!-- Optional: Nutritional Information -->
+        <!-- Optional: Image -->
+    </div>
+</body>
+</html>
